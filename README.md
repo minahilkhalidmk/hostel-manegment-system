@@ -82,14 +82,14 @@ This project showcases:
 
 The system performs extensive validation before storing any information:
 
-✅ Password Complexity Enforcement
-✅ Unique Student Roll Numbers
-✅ Alphabet-Only Names & Departments
-✅ Age Restrictions for Students & Staff
-✅ Attendance Range Validation
-✅ Job-Type Restrictions
-✅ Gender Validation
-✅ Working Hour Limits
+✅ Password Complexity Enforcement  
+✅ Unique Student Roll Numbers  
+✅ Alphabet-Only Names & Departments  
+✅ Age Restrictions for Students & Staff  
+✅ Attendance Range Validation  
+✅ Job-Type Restrictions  
+✅ Gender Validation  
+✅ Working Hour Limits  
 
 This ensures that only valid and consistent data is maintained throughout the system.
 
